@@ -1,0 +1,11 @@
+C:\Users\USER01\Desktop\C#\deneme04\deneme04\bin\Debug\deneme04.exe.config
+C:\Users\USER01\Desktop\C#\deneme04\deneme04\bin\Debug\deneme04.exe
+C:\Users\USER01\Desktop\C#\deneme04\deneme04\bin\Debug\deneme04.pdb
+C:\Users\USER01\Desktop\C#\deneme04\deneme04\obj\Debug\deneme04.csproj.AssemblyReference.cache
+C:\Users\USER01\Desktop\C#\deneme04\deneme04\obj\Debug\deneme04.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER01\Desktop\C#\deneme04\deneme04\obj\Debug\deneme04.Form1.resources
+C:\Users\USER01\Desktop\C#\deneme04\deneme04\obj\Debug\deneme04.Properties.Resources.resources
+C:\Users\USER01\Desktop\C#\deneme04\deneme04\obj\Debug\deneme04.csproj.GenerateResource.cache
+C:\Users\USER01\Desktop\C#\deneme04\deneme04\obj\Debug\deneme04.csproj.CoreCompileInputs.cache
+C:\Users\USER01\Desktop\C#\deneme04\deneme04\obj\Debug\deneme04.exe
+C:\Users\USER01\Desktop\C#\deneme04\deneme04\obj\Debug\deneme04.pdb
